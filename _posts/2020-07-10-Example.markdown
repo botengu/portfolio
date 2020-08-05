@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Overlay example
+date:   2020-07-10 23:32:57 -0400
+categories: jekyll update
+
+---
+
+
+  <div class="w3-row w3-padding-64">
+    <div class="w3-twothird w3-container">
+      <h1 class="w3-text-teal">Metaballs</h1>
+        <p class = "justify">
+        Metaballs use implicit equations to represent objects. 
+        </p>
+      <div class="container">
+      <img src="\assets\img\McGill.png"  class="image">
+      <div class="overlay">My Name is John</div>
+    </div>
+</div>
+
