@@ -36,7 +36,7 @@ permalink: "/contact/"
     </div>
     <div class="w3-third">
     <div class="w3-card w3-container w3-center" style="min-height:300px">
-    <h3>Godjenka</h3><br>
+    <h3>Botengu</h3><br>
     <a href="https://github.com/godjenka" target="_blank">
     <i class="fa fa-github big" style="font-size:120px"></i>
     </a>

@@ -16,7 +16,7 @@ permalink: "/music/transcription/"
       </ul>
       </p>
       <div class="w3-main w3-center" >
-          <img src="/botengu/assets/img/timdom.PNG" width="50%" height="50%">
+          <img src="/portfolio/assets/img/timdom.PNG" width="50%" height="50%">
           <figcaption>Plot of a signal from an audio file</figcaption>
       </div>
       <p class = "justify">
@@ -27,7 +27,7 @@ permalink: "/music/transcription/"
       </ul>
       </p>
       <div class="w3-main w3-center" >
-          <img src="/botengu/assets/img/frequencydom.PNG" width="50%" height="50%">
+          <img src="/portfolio/assets/img/frequencydom.PNG" width="50%" height="50%">
           <figcaption>Frequency domain of the original plot</figcaption>
       </div>
       <p class = "justify">
@@ -36,12 +36,12 @@ permalink: "/music/transcription/"
       </ul>
         </p>
       <div class="w3-main w3-center" >
-          <img src="/botengu/assets/img/notes_freq.PNG" width="30%" height="30%">
+          <img src="/portfolio/assets/img/notes_freq.PNG" width="30%" height="30%">
           <figcaption>Online info was obtained to find which frequencies belong to which notes <a class= "links" href=" https://pages.mtu.edu/~suits/notefreqs.html">(https://pages.mtu.edu/~suits/notefreqs.html)</a>  </figcaption>
       </div>
       <br>
       <div class="w3-main w3-center" >
-        <img src="/botengu/assets/img/Musicgif.gif" width="50%" height="50%">
+        <img src="/portfolio/assets/img/Musicgif.gif" width="50%" height="50%">
         <figcaption>The tKinter tool was used to create the fretboard and visualize the notes</figcaption>
       </div>
         <p class = "justify">

@@ -15,26 +15,26 @@ permalink: "/cad/metaballs/"
         </p>
         <br>
         <div class="w3-main w3-center" >
-            <img src="/botengu/assets/img/merged-spheres.PNG" width="50%" height="50%">
+            <img src="/portfolio/assets/img/merged-spheres.PNG" width="50%" height="50%">
             <figcaption>Isosurface of superimposed spherical fields</figcaption>
         </div>
         <br>
         <div class="w3-main w3-center" >
-            <img src="/botengu/assets/img/merged-cubes.PNG" width="50%" height="50%" >
+            <img src="/portfolio/assets/img/merged-cubes.PNG" width="50%" height="50%" >
             <figcaption>Isosurface of superimposed diamond fields</figcaption>
         </div>
         <br>
         <div class="w3-main w3-center" >
-            <img src="/botengu/assets/img/Cylinders.PNG" width="50%" height="50%">
+            <img src="/portfolio/assets/img/Cylinders.PNG" width="50%" height="50%">
             <figcaption>Isosurface of superimposed cylindrical fields</figcaption>
         </div>
         <p class = "justify">
         Spherical fields can be further used in order thicken non straight curves like Bezier curve with more than one control point. 
         </p>
         <div class="w3-main w3-center" >
-            <img src="/botengu/assets/img/bezierCurve_pts.PNG" width="30%" height="30%">
-            <img src="/botengu/assets/img/bezierCurve.PNG" width="30%" height="30%">
-            <img src="/botengu/assets/img/Thickened_bezierCurve.PNG" width="30%" height="30%">
+            <img src="/portfolio/assets/img/bezierCurve_pts.PNG" width="30%" height="30%">
+            <img src="/portfolio/assets/img/bezierCurve.PNG" width="30%" height="30%">
+            <img src="/portfolio/assets/img/Thickened_bezierCurve.PNG" width="30%" height="30%">
             <figcaption>Isosurface of superimposed spherical fields along a spline</figcaption>
         </div>
         <p class = "justify">
@@ -46,7 +46,7 @@ permalink: "/cad/metaballs/"
         It's also mesmerizing to see how implicit modeling yields shapes that are more probable to be found in nature.  
         </p>
         <div class="w3-main w3-center" >
-            <img src="/botengu/assets/img/Virus_square.png" width="70%" height="70%">
+            <img src="/portfolio/assets/img/Virus_square.png" width="70%" height="70%">
             <figcaption>Virus like shape obtained through the superimposition of primitive shapes' fields</figcaption>
         </div>
 </div>
