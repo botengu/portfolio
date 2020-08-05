@@ -12,7 +12,7 @@ permalink: "/music/transcription/"
         <p class = "justify">
         Doing so required me to go through a certain amount of steps.
       <ul>
-        <li>First, I had to find how to extrat notes from an audio file: A note is essentially a wave, a melody is hence made of superimopsed of waves. Info from audio file can thus be extracted as a signal's plot showing how the amplitude varies with respect to time.</li>
+        <li>First, I had to find how to extract notes from an audio file: A note is essentially a wave, a melody is hence made of superimopsed of waves. Info from audio file can thus be extracted as a signal's plot showing how the amplitude varies with respect to time.</li>
       </ul>
       </p>
       <div class="w3-main w3-center" >
