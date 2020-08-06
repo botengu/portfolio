@@ -21,8 +21,7 @@ permalink: "/finance/movingStocks/"
     </p>
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/PCA_stocks_absolute.gif" width="50%" height="50%">
-        <figcaption> 3D visualization of the SPTs of Microsoft (Yellow), Tesla (Green), Amazon (Red) and Google (Blue
-        )</figcaption>
+        <figcaption> 3D visualization of the SPTs of Microsoft (Yellow), Tesla (Green), Amazon (Red) and Google (Blue)</figcaption>
     </div>
 </div>
 

@@ -4,7 +4,7 @@ title: Primitive Shapes in Implicit Modeling
 permalink: "/cad/metaballs/"
 ---
   <div class="w3-row ">
-      <h1 style="text-align:center">Primitive Shapes in Implicit Modeling </h1>
+      <h1 style="text-align:center">Primitive shapes in implicit modeling </h1>
         <p class = "justify">
         An Implicit Model is a continuous mathematical representation of an attribute across a volume.  It has an infinitely fine resolution. Creating tangible surfaces from this model is a separate and secondary step and is independent of the creation of the Implicit Model (from www.micromine.com).
         Metaballs use implicit modeling to represent objects.  Their main particularity is that they describe a field. Hence, object fields can be added together to create smooth transitions between the two objects. To obtain the field of an object, we need to take the inverse of the function describing that object. For a sphere the object is described by the equality: 
@@ -46,8 +46,8 @@ permalink: "/cad/metaballs/"
         It's also mesmerizing to see how implicit modeling yields shapes that are more probable to be found in nature.  
         </p>
         <div class="w3-main w3-center" >
-            <img src="/portfolio/assets/img/Virus_square.PNG" width="70%" height="70%">
-            <img src="/portfolio/assets/img/Inside_vir.PNG" width="70%" height="70%">
+            <img src="/portfolio/assets/img/Virus_square.PNG" >
+            <img src="/portfolio/assets/img/Inside_vir.PNG" width="30%" height="30%">
             <figcaption>Virus like shape obtained through the superimposition of primitive shapes' fields. The second figure shows the inside of the virus like shape.</figcaption>
         </div>
 </div>
