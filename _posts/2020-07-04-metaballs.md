@@ -46,8 +46,8 @@ permalink: "/cad/metaballs/"
         It's also mesmerizing to see how implicit modeling yields shapes that are more probable to be found in nature.  
         </p>
         <div class="w3-main w3-center" >
-            <img src="/portfolio/assets/img/Virus_square.PNG" >
-            <img src="/portfolio/assets/img/Inside_vir.PNG" width="30%" height="30%">
+            <img src="/portfolio/assets/img/Virus_square2.PNG" >
+            <img src="/portfolio/assets/img/Inside_vir.PNG" width="10%" height="10%">
             <figcaption>Virus like shape obtained through the superimposition of primitive shapes' fields. The second figure shows the inside of the virus like shape.</figcaption>
         </div>
 </div>
