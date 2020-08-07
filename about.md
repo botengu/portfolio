@@ -10,11 +10,11 @@ permalink: "/about/"
 </div>
 
 <div class="center2">
-<p  ><blockquote  class="w3-center tab" style="font-family:Courier New; font-size:40px"><i>"I code shapes..."- K.M.N.</i></blockquote> </p>
+<p  ><blockquote  class="w3-center tab" style="font-family:Courier New; font-size:30px"><i>"I code shapes..."- K.M.N.</i></blockquote> </p>
 <h2 class="section-title" >About the Author</h2>
 <div class="w3-container w3-leftbar">
 	<img src="/portfolio/assets/img/Ken.jpg" width="15%" height="15%" text-align= "right" id="hp">
-	<p class="justify" > While some do not need to visualize concepts to understand or apreciate them, I am amongst the ones who do. I have fields of interests because of the work I have done by the past, but if a concept can be visualized spatially, it is only a matter of time before it becomes part of my fields of interest. My work tool is geometric modeling. I develop algorithms to render shapes and I develop shapes to help visualize abstract concepts from various fields such as finance, music, sports, etc... </p>
+	<p class="justify" > While some do not need to visualize concepts to understand or apreciate them, I am amongst the ones who do. I have fields of interests because of the work I have done by the past, but if a concept can be visualized spatially, it is only a matter of time before it becomes part of my fields of interest. Geometric modeling is simultaneously a field of interes and my medium. I develop algorithms to render shapes and I design shapes to help visualize abstract concepts from various fields such as finance, music, sports, etc... </p>
 </div>
 
 <h2 class="section-title">Relevant Experiences</h2>
