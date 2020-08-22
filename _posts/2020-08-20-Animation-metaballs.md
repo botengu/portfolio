@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Particle fusion interaction 
+title:  Particles sintering modeling 
 date:   2020-08-20 23:32:57 -0400
 categories: jekyll update
 permalink: "/cad/anim-metaballs/"
 ---
 
 <div class="w3-row">
-    <h1 style="text-align:center">Implicit modeling for particle fusion interaction</h1>
+    <h1 style="text-align:center">Implicit modeling to visualize the sintering of particles</h1>
     <p class = "justify">
     The representation of objects through fields is an idea that has shown to be extremely impactful on  computer aided design. That idea can have a lot more impact when it is brought into animation. When implicit modeling is used for animation, it can be a great tool to visualize common physical processes. One of those common physical processes is the sintering of particles in powder bed fusion processes. Each particle can be described as a circular field and the sintering of a particle is described by increasing the size of its field. 
     </p> 
