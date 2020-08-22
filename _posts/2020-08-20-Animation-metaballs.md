@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Particles sintering modeling 
+title:  Particles Sintering Modeling 
 date:   2020-08-20 23:32:57 -0400
 categories: jekyll update
 permalink: "/cad/anim-metaballs/"
