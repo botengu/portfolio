@@ -15,16 +15,15 @@ permalink: "/cad/anim-metaballs/"
     In the case of laser sintering, the laser, the source energy is sintering the different particles. This is the equivalent to increasing the size of the particles' fields around the laser's path. 
     </p>
     <p class = "justify">
-    To help visualize the process, I restricted myself to cross-sectional fusion. Below are two small animations for straight and curved laser trajectories. The laser location is indicated by the red dot.
-    No heat equations or models were used here, this was just for visualization purposes. 
+    To help visualize the process, I restricted myself to cross-sectional fusion. Below are two small animations for straight and curved laser trajectories. The laser location is indicated by the red dot. No heat equations or models were used here, this was just for visualization purposes. 
     </p>
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Straight.gif" width="50%" height="50%">
-        <figcaption> Sintering of particles for straight laser path </figcaption>
+        <figcaption> Sintering of particles for straight laser path.</figcaption>
     </div>
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Curved.gif" width="50%" height="50%">
-        <figcaption> Sintering of particles for curved laser path </figcaption>
+        <figcaption> Sintering of particles for curved laser path.</figcaption>
     </div>
 </div>
 
