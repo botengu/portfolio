@@ -29,8 +29,8 @@ permalink: "/cad/MorphingSurfaces/"
     For my research, I happen to use Bezier curves and surfaces a lot. Bezier curves are drawn using control points. The resulting curve starts at the first control and finishes at the second control points but does not pass by the intermediary control points. 
     </p>
     <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/Bez1.PNG" width="70%" height="70%">
-        <img src="/portfolio/assets/img/Bez2.PNG" width="70%" height="70%">
+        <img src="/portfolio/assets/img/Bez1.PNG" width="30%" height="30%">
+        <img src="/portfolio/assets/img/Bez2.PNG" width="30%" height="30%">
         <figcaption>Bezier Curves in blue for control points in red</figcaption>
     </div>  
     <p class = "justify">
