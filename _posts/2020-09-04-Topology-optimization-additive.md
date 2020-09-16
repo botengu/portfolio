@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Porous structures and topology optimization 
+title:  Porous Structures and Topology Optimization 
 date:   2020-09-04 23:32:57 -0400
 categories: jekyll update
 permalink: "/cad/topopt/"

@@ -16,7 +16,7 @@ permalink: "/finance/clusterStocks/"
         <figcaption>Evolution of Microsoft Stock Price over a given time period</figcaption>
     </div>
     <p class = "justify">
-    The stock prices were given day by day. weekends are not counted. 
+    The stock prices were given day by day, weekends are not counted. 
     The similarity in trends can be explained by different things, some stocks have had similar trends because they are related to the same industry but sometimes they can be explained by other reasons. Nonetheless, I was looking for a way to see how machine learning could be applied to finance. Most people, when they hear about artificial intelligence in finance, directly think of how it can be used to predict stock prices. I personally believe that it is a completely flawed approach, although it might be accurate sometimes, no AI or Machine learning model can perfectly encapsulate all the different factors that go into affecting the price of a stock. If people still have doubts about this fact the Covid-19 crisis which took place in early 2020 is a great example.</p>
     <p class = "justify">Hence, I thought of a different approach to use AI in stocks; unsupervised machine learning to group securities with similar SPTs. Clustering can be done using K-means clustering which partitions the data into k clusters that minimize the within-cluster sum of squares. K-clustering can easily be used to group points based on their proximity. 
     The main conceptual challenge of such a project: how to represent the points. More specifically, how do we go from a trend to a point in n-dimension? </p>
