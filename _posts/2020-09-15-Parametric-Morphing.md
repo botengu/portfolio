@@ -37,7 +37,7 @@ permalink: "/cad/MorphingSurfaces/"
     When the points represent experimental data, Bezier curves and surfaces are a great way of averaging out the results. 
     </p>
     <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/BezieEvol.gif" width="70%" height="70%">
+        <img src="/portfolio/assets/img/BezierEvol.gif" width="70%" height="70%">
         <figcaption>Smoothing of experimental data surface</figcaption>
     </div> 
 </div>
