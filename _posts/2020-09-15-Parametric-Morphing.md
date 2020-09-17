@@ -26,7 +26,7 @@ permalink: "/cad/MorphingSurfaces/"
         <figcaption>Mobius strip morphed into a Klein bottle</figcaption>
     </div> 
     <p class = "justify">
-    For my research, I happen to use Bezier curves and surfaces a lot. Bezier curves are drawn using control points. The resulting curve starts at the first control and finishes at the second control points but does not pass by the intermediary control points. 
+    For my research, I happen to use Bezier curves and surfaces a lot. Bezier curves are drawn using control points. The resulting curve starts at the first control and ends at the last control point but does not pass by the intermediary control points. 
     </p>
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Bez1.PNG" width="30%" height="30%">
