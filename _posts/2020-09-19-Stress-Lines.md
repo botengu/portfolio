@@ -9,7 +9,7 @@ permalink: "/cad/StressLines/"
 <div class="w3-row ">
     <h1 style="text-align:center">Creating Parts from Stress Lines</h1>
     <p class = "justify">
-    Aside from topology optimization which has been addressed in a different post <a class = "ex1 ex3" href="/cad/topopt/" target="_blank" > (here) </a>, parts can also be created using stress lines. To derive stress lines, a 2D FEA code was used <a class = "ex1 ex3" href=" https://github.com/largurajr/FEA-Protus" target="_blank" > (link here) </a>. I chose a design space and imposed boundary conditions as well as loads.  
+    Aside from topology optimization which has been addressed in a different post <a class = "ex1 ex3" href="/cad/topopt/" target="_blank" > (here)</a>, parts can also be created using stress lines. To derive stress lines, a 2D FEA code was used <a class = "ex1 ex3" href=" https://github.com/largurajr/FEA-Protus" target="_blank">(link here)</a>. I chose a design space and imposed boundary conditions as well as loads.  
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/designspace.PNG" width="30%" height="30%">
@@ -40,11 +40,11 @@ permalink: "/cad/StressLines/"
     The resulting lines have then be thickened, extruded and rendered using Rhino3D, Grasshopper3D and Blender. 
     </p> 
     <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/StressLines.png" width="30%" height="30%">
+        <img src="/portfolio/assets/img/StressLines.png" width="50%" height="50%">
         <figcaption>Thickened stress lines</figcaption>
     </div>
         <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/StressLineCAD.png" width="30%" height="30%">
+        <img src="/portfolio/assets/img/StressLineCAD.png" width="50%" height="50%">
         <figcaption>Rendered part made from stress lines</figcaption>
     </div>
 </div>
