@@ -7,7 +7,7 @@ permalink: "/cad/MorphingSurfaces/"
 ---
 
 <div class="w3-row ">
-    <h1 style="text-align:center">Morphing Parametrized Surfaces</h1>
+    <h1 style="text-align:center">Morphing parametrized surfaces</h1>
     <p class = "justify">
     The purpose of this work was to reinforce my knowledge in parametrized surfaces. Since I have learned a couple of theoretical concepts, it was an opportunity for me to verify if I understood things correctly. The first concept I wanted to test was the Mobius strip. Take rectanle and glue two of its opposite sides, what you obtain is a hollow cylinder. Now if you take the same rectangle but apply a twist to one side before you glue it to its opposite side, you get a Mobius strip; a one-sided surface. 
     </p> 
