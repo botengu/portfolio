@@ -16,6 +16,17 @@ permalink: "/music/chladni/"
         where a and b are the dimensions of the plates, m,n,p and q are constant related to the frequency of the vibration and C and D are related to the amplitude of the vibration. 
         </p>
       <div class="w3-main w3-center" >
+          <img src="/portfolio/assets/img/wave.png" width="40%" height="40%">
+          <figcaption>Surface of f(x,y) for a particular combination of m,n,p and q</figcaption>
+      </div>
+      <div class="w3-main w3-center" >
+          <img src="/portfolio/assets/img/wave1.png" width="40%" height="40%">
+          <figcaption>Level set of surface for an isovalue of 0</figcaption>
+      </div>
+      <p class = "justify">
+        Level sets can be evolved by switching between various frequency values, the following images show different ways frequency values can be changed to obtain different shape.  
+      </p>
+      <div class="w3-main w3-center" >
           <img src="/portfolio/assets/img/Chladni-gradual.gif" width="50%" height="50%">
           <figcaption>The frequency related constants all have the same values and they are increased continously </figcaption>
       </div>
