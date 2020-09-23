@@ -9,8 +9,8 @@ permalink: "/cad/metaballs/"
         An Implicit Model is a continuous mathematical representation of an attribute across a volume.  It has an infinitely fine resolution. Creating tangible surfaces from this model is a separate and secondary step and is independent of the creation of the Implicit Model (from www.micromine.com).
         Metaballs use implicit modeling to represent objects.  Their main particularity is that they describe a field. Hence, object fields can be added together to create smooth transitions between the two objects. To obtain the field of an object, we need to take the inverse of the function describing that object. For a sphere the object is described by the equality: 
         $$ {x^2+y^2+z^2} = r^2 $$
-        where r is the sphere's radius. When considering the field of a sphere located at the point (a,b,c), the function becomes will be:
-        $$f = {r^2  \over {(x-a)^2+(y-b)^2+(z-c)^2}  }$$
+        where r is the sphere's radius. When considering the field of a sphere located at the point (a,b,c), the function becomes:
+        $$f(x,y,z) = {r^2  \over {(x-a)^2+(y-b)^2+(z-c)^2}  }$$
         When superimposing spherical objects, one gets a greater sphere. While when adding two spherical fields, we can get a transition between two spheres.  The pictures below show the superimposition of different type fields (the marching cube algorithm is still used to represent the fields).  
         </p>
         <br>
