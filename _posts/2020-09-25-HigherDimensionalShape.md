@@ -49,7 +49,7 @@ permalink: "/cad/nDBezier/"
         <figcaption> Bézier surface with non-coplanar control points</figcaption>
     </div>
      <p class = "justify">
-    In the project <a class = "ex1 ex3" href="/portfolio/cad/MorphingSurfaces/" target="_blank"> "morphing parametrized surfaces" </a>, I have shown the transition between a surface passing through points and the resulting Bézier surface when the original points are used as control points. 
+    In the project <a class = "ex1 ex3" href="/portfolio/cad/MorphingSurfaces/" target="_blank"> "Morphing parametrized surfaces" </a>, I have shown the transition between a surface passing through points and the resulting Bézier surface when the original points are used as control points. 
     </p>
     <p class = "justify">
     Bézier volumes use the same rules as the Bézier surfaces but in three different dimensions simultaneously, the volume obeys the following equation: 

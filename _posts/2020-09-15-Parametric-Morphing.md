@@ -34,7 +34,7 @@ permalink: "/cad/MorphingSurfaces/"
         <figcaption>Bezier Curves in blue for control points in red</figcaption>
     </div>  
     <p class = "justify">
-    When the points represent experimental data, Bezier curves and surfaces are a great way of averaging out the results. 
+    More on Bezier surface can be found in the post<a class = "ex1 ex3" href="/portfolio/cad/nDBezier/" target="_blank"> "Bézier objects in higher dimensions" </a>. When the points represent experimental data, Bezier curves and surfaces are a great way of averaging out the results. 
     </p>
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/BezierEvol.gif" width="70%" height="70%">
