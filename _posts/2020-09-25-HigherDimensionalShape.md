@@ -45,7 +45,7 @@ permalink: "/cad/nDBezier/"
     </div>
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Bzsurf1.png" width="50%" height="50%">
-        <img src="/portfolio/assets/img/Bzsurf1_2.png" width="30%" height="30%">
+        <img src="/portfolio/assets/img/Bzsurf1_2.png" width="50%" height="50%">
         <figcaption> Bézier surface with non-coplanar control points</figcaption>
     </div>
      <p class = "justify">
