@@ -64,13 +64,10 @@ permalink: "/cad/nDBezier/"
         <figcaption> Hypercube projected (not rotated) </figcaption>
     </div>
     <div class="w3-main w3-center" >
-        <!-- 
-        <img src="/portfolio/assets/img/BzvolumeProjected1.png" width="40%" height="40%">
-        <img src="/portfolio/assets/img/BzvolumeProjected2.png" width="40%" height="40%">
-        -->
+        <img src="/portfolio/assets/img/" width="40%" height="40%">
+        <img src="/portfolio/assets/img/" width="40%" height="40%">
         <figcaption> Hypercube projected and rotated (the pictures will be shown soon)</figcaption>
     </div>
-    
     <p class = "justify">
     The pictures below show the shadow two Bézier solid cases, one where the control points are restricted to a 3D domain and the other where the control points belong can exist in a 4D domain. 
     </p>
@@ -79,9 +76,7 @@ permalink: "/cad/nDBezier/"
         <figcaption> Bézier solid with 3D control points </figcaption>
     </div>     
     <div class="w3-main w3-center" >
-    <!--
-        <img src="/portfolio/assets/img/Bzvolume.png" width="50%" height="50%">
-    -->
+        <img src="/portfolio/assets/img/" width="50%" height="50%">
         <figcaption>Bézier solid with 4D control points projected and rotated (the pictures will be shown soon)</figcaption>
     </div>
     
