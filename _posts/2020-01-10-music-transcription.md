@@ -32,7 +32,7 @@ permalink: "/music/transcription/"
       </div>
       <p class = "justify">
       <ul>
-        <li> Then, online information was gathered to link those frequencies to right notes: I, myself, had some knowledge on the location of notes on instruments, hence I used this knowledge to link the right notes to the right position. Online info was obtained to find which frequencies belong to which notes using <a class= "links" href=" https://pages.mtu.edu/~suits/notefreqs.html">this link</a>.</li>
+        <li> Then, online information was gathered to link those frequencies to right notes: I, myself, had some knowledge on the location of notes on instruments, hence I used this knowledge to link the right notes to the right position. Online info was obtained to find which frequencies belong to which notes using <a class= "links" href=" https://pages.mtu.edu/~suits/notefreqs.html" target="_blank">this link</a>.</li>
       </ul>
         </p>
       <div class="w3-main w3-center" >
