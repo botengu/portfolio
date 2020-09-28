@@ -54,9 +54,9 @@ permalink: "/cad/nDBezier/"
     </p>
     <p class = "justify">
     Bézier volumes use the same rules as the Bézier surfaces but in three different dimensions simultaneously, the volume obeys the following equation: 
-    $$ V(u,v,w) = \sum ^{n}_{i=0} \sum ^{m}_{j=0} \sum ^{o}_{k=0} B^{n}_{i} \cdot B^{m}_{j} \cdot B^{o}_{k} \cdot P_{i,j,k} $$
-    where P is the matrix of points and \(P_{i,j,k}\) is the point at location i and j in the matrix and n, and m are the numbers of points both directions. \(B^{n}_{i}\) and \(B^{m}_{j}\) were explained earlier. \(B^{o}_{k}\)  is the Bernstein polynomial applied in the w direction:
-    $$ B^{o}_{k} =  \binom{o}{k} (1-w)^{o-k}\cdot w^k  $$
+    $$ V(u,v,w) = \sum ^{n}_{i=0} \sum ^{m}_{j=0} \sum ^{o}_{k=0} B^{n}_{i} \cdot B^{m}_{j} \cdot B^{l}_{k} \cdot P_{i,j,k} $$
+    where P is the matrix of points and \(P_{i,j,k}\) is the point at location i and j in the matrix and n, and m are the numbers of points both directions. \(B^{n}_{i}\) and \(B^{m}_{j}\) were explained earlier. \(B^{l}_{k}\)  is the Bernstein polynomial applied in the w direction:
+    $$ B^{l}_{k} =  \binom{l}{k} (1-w)^{l-k}\cdot w^k  $$
     Now this is where the obvious becomes interesing: the same way a uni-dimensional Bézier object (a curve) needs at least two dimensional control points to e curved, three-dimensional Bézier objects (volume), need at least four-dimensional control points to exist.
     The problem here lies in the fact that four dimensional elements cannot be visualized by the human eye. <br>
     This is where projection is important. For this project to be completed, the four dimensional object has to be projected into a three dimensional world. In 3D, the shadow of any object is the 2D projection of that object. For us to be able to see Bézier solids, we need take the 3D shadow of a 4D object. The figures below show a hypercube (4D cube) projected to 3D and rotated at different angles. 
