@@ -11,7 +11,7 @@ permalink: "/cad/nDBezier/"
     This particular topic will discuss reuse Bezier surface. Those who have seen my previous posts will indeed find that I am huge fan of Bezier objects (curve, surface and volumes). I think they are great ways of obtaining normalized, smooth, parametric objects. <br>
     Although many posts have used Bézier concepts, I will describe them in more details here. 
     Bézier curves are curves that are controlled by a set of control points.
-    A linear Bézier curve C(u) is the curve obtained by two points \(P_{0}\) and \(P_{1}\) such that:
+    A linear Bézier curve  \(C(u)\) is the curve obtained by two points \(P_{0}\) and \(P_{1}\) such that:
     $$C(u) = P_{0} + u \cdot (P_{1} - P_{0}) $$
     $$C(u) = (1-u)\cdot P_{0}+ u \cdot P_{1} $$
     for 0 \(\leq\) u \(\leq\)  1. 
@@ -22,7 +22,7 @@ permalink: "/cad/nDBezier/"
     where  \(P_{i}\) is the ith control point and n is the number of points and \(B^{n}_{i}\) is the Bernstein polynomial
     $$ B^{n}_{i} =  \binom{n}{i} (1-u)^{n-i}\cdot u^i  $$
     <br>
-    Let me state something obvious, for Bézier curves to be curves and not just lines, the control points need to be non-colinear. In other words for a Bézier curve which is a uni-dimensional Bézier object (it has only one parameter t), the control points should belong to (at least) a two-dimensional space. This statement will be useful for future Bézier objects in higher dimensions.  The pictures below show two Bézier curves cases, one where the control points are restricted to a uni-dimensional domain and the other where the control points are non-colinear. 
+    Let me state something obvious, for Bézier curves to be curves and not just lines, the control points need to be non-colinear. In other words for a Bézier curve which is a uni-dimensional Bézier object (it has only one parameter u), the control points should belong to (at least) a two-dimensional space. This statement will be useful for future Bézier objects in higher dimensions.  The pictures below show two Bézier curves cases, one where the control points are restricted to a uni-dimensional domain and the other where the control points are non-colinear. 
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Bzcurveflat.png" width="50%" height="50%">
