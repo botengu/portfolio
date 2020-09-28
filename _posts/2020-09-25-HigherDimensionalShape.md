@@ -54,7 +54,7 @@ permalink: "/cad/nDBezier/"
     </p>
     <p class = "justify">
     Bézier volumes use the same rules as the Bézier surfaces but in three different dimensions simultaneously, the volume obeys the following equation: 
-    $$ V(u,v,w) = \sum ^{n}_{i=0} \sum ^{m}_{j=0} \sum ^{o}_{k=0} B^{n}_{i} \cdot B^{m}_{j} \cdot B^{l}_{k} \cdot P_{i,j,k} $$
+    $$ V(u,v,w) = \sum ^{n}_{i=0} \sum ^{m}_{j=0} \sum ^{l}_{k=0} B^{n}_{i} \cdot B^{m}_{j} \cdot B^{l}_{k} \cdot P_{i,j,k} $$
     where P is the matrix of points and \(P_{i,j,k}\) is the point at location i and j in the matrix and n, and m are the numbers of points both directions. \(B^{n}_{i}\) and \(B^{m}_{j}\) were explained earlier. \(B^{l}_{k}\)  is the Bernstein polynomial applied in the w direction:
     $$ B^{l}_{k} =  \binom{l}{k} (1-w)^{l-k}\cdot w^k  $$
     Now this is where the obvious becomes interesing: the same way a uni-dimensional Bézier object (a curve) needs at least two dimensional control points to e curved, three-dimensional Bézier objects (volume), need at least four-dimensional control points to exist.
