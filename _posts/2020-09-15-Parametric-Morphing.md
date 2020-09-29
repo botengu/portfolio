@@ -11,12 +11,12 @@ permalink: "/cad/MorphingSurfaces/"
     <p class = "justify">
     The purpose of this work was to reinforce my knowledge in parametrized surfaces. Since I have learned a couple of theoretical concepts, it was an opportunity for me to verify if I understood things correctly. The first concept I wanted to test was the Mobius strip. Take a rectangle and glue two of its opposite sides, what you obtain is a hollow cylinder. Now if you take the same rectangle but apply a twist to one side before you glue it to its opposite side, you get a Mobius strip; a one-sided surface. 
     </p> 
-    <div class="w3-main w3-center" >
+    <div class="w3-main w3-center">
         <img src="/portfolio/assets/img/Mobius.gif" width="50%" height="50%">
         <figcaption>Example of Mobius strip</figcaption>
     </div>
     <p class = "justify">
-    In the event where two mobius strips are glued together on their side, the resulting shape is what is called a Klein bottle. Both the paramteric equations for the Klein bottle and the Mobius strip were found on Wikipedia. The Klein bottle and the morphing of the mobius strip into the Klein bottle can be shown below. Keep in mind that this morphing technic does not show how two mobius strips are glued to give the Klein bottle but just a common parametric morphing. 
+    In the event where two Mobius strips are glued together on their side, the resulting shape is what is called a Klein bottle. Both the paramteric equations for the Klein bottle and the Mobius strip were found on Wikipedia. The Klein bottle and the morphing of the Mobius strip into the Klein bottle can be shown below. Keep in mind that this morphing technic does not show how two Mobius strips are glued to give the Klein bottle but just a common parametric morphing. 
     </p>
         <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Klein.PNG" width="60%" height="60%">
