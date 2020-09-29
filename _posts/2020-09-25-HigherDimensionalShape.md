@@ -19,7 +19,7 @@ permalink: "/cad/nDBezier/"
     <p class = "justify">
     Quadratic Bézier curves are interpolations of two linear interpolations (the one between the first and second point and the one between the second and third point). Higher order Bézier curves ( which require more than two points) follow the same pattern. Overall, the  nth degree Bézier curve can be obtained by the following function: 
     $$ C(u) = \sum ^{n}_{i=0} B^{n}_{i}(u) \cdot P_{i} $$
-    where  \(P_{i}\) is the ith control point and n is the number of points and \(B^{n}_{i}(u)\) is the Bernstein polynomial
+    where  \(P_{i}\) is the ith control point and n is the number of points and \(B^{n}_{i}(u)\) is the Bernstein polynomial in the u direction:
     $$ B^{n}_{i}(u)=  \binom{n}{i} (1-u)^{n-i}\cdot u^i  $$
     <br>
     Let me state something obvious, for Bézier curves to be curves and not just lines, the control points need to be non-colinear. In other words for a Bézier curve which is a uni-dimensional Bézier object (it has only one parameter u), the control points should belong to (at least) a two-dimensional space. This statement will be useful for future Bézier objects in higher dimensions.  The pictures below show two Bézier curves cases, one where the control points are restricted to a uni-dimensional domain and the other where the control points are non-colinear. 
