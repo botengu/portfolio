@@ -16,28 +16,28 @@ permalink: "/cad/StressLines/"
         <figcaption>Design space with boundary conditions and loads</figcaption>
     </div>
     <p class = "justify">
-    Once everything had been defined, the design space was discretized and the FEA code was run. The code gave the Von Mises stresses values at all the different nodes. Those nodal values were used to interpolated the stress values over the entire domain.  
+    Once everything had been defined, the design space was discretized, and the FEA code was run. The code gave the Von Mises stresses values at all the different nodes. Those nodal values were used to interpolate the stress values over the entire domain. 
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/StressLines3.png" width="50%" height="50%">
         <figcaption>Colormap of the interpolated normalized Von Mises Stresses</figcaption>
     </div>
     <p class = "justify">
-    I was also able to obtain the principal stresses from the code and I have plotted the resulting stress field. 
+     I also obtained the principal stresses from the code, and I have plotted the resulting stress field. 
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/StressLines1.png" width="50%" height="50%">
         <figcaption>Stress field</figcaption>
     </div>
     <p class = "justify">
-    The stress field was interpolated accross the whole domain. The advantage of having a stress field is that I can start from a random point, draw a segment in the direction given by the stress field at that starting point, this will lead me to another point, where I'll do the same thing (over a fixed number of iterations). I used some of the boundary points as starting points. The resulting lines were then smoothed using Bezier Curves. 
+    The stress field was interpolated across the whole domain. The advantage of having a stress field is that I can start from a random point, draw a segment in the direction given by the stress field at that starting point; this will lead me to another point, where I'll do the same thing (over a fixed number of iterations). I used some of the boundary points as starting points. The resulting lines were then smoothed using Bezier Curves. 
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/StressLines2.png" width="50%" height="50%">
         <figcaption>Stress lines</figcaption>
     </div>
     <p class = "justify">
-    The resulting lines have then be thickened, extruded and rendered using Rhino3D, Grasshopper3D and Blender. 
+    The resulting lines have then be thickened, extruded, and rendered using Rhino3D, Grasshopper3D, and Blender.  
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/StressLines.png" width="50%" height="50%">
