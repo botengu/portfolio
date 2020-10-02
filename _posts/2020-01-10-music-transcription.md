@@ -7,7 +7,7 @@ permalink: "/music/transcription/"
 <div class="w3-row">
     <h1 style="text-align:center">Transcription of notes on instruments</h1>
       <p class = "justify">
-          I have been interested in audio processing and music theory for a while, and I've tried to write a music transcription algorithm. The algorithm in question should take as inputs notes from an audio file and outputs the location of the notes on the instrument of choice (guitar,bass, piano). 
+          I have been interested in audio processing and music theory for a while, and I've tried to write a music transcription algorithm. The algorithm in question should take as inputs notes from an audio file and outputs the location of the notes on the instrument of choice (guitar, bass, piano). 
         </p>
         <p class = "justify">
         Doing so required me to go through a certain amount of steps.
