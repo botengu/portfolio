@@ -70,6 +70,9 @@ permalink: "/cad/nDBezier/"
         <img src="/portfolio/assets/img/Bzvolumeflat3.png" width="40%" height="40%">
         <figcaption> The images above show a Bézier solid projected (a) and rotated around the xz axis and zw axis (b and c) - control points are in red </figcaption>
     </div>     
+    <p class = "justify">
+    It should be made clear that the previous images do not show a tesseract, it shows a cube (8 vertices, 6 faces) in hyperspace rotated in hyperspace and projected to a three-dimensional space. 
+    </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Bzvolume.png" width="40%" height="40%">
         <img src="/portfolio/assets/img/Bzvolume2.png" width="40%" height="40%">
@@ -77,6 +80,7 @@ permalink: "/cad/nDBezier/"
         <img src="/portfolio/assets/img/Bzvolume4.png" width="40%" height="40%">
         <figcaption> Bézier solid made with 4D points projected to 3D (a and b) and rotated around the zw axis (c and d) - control points are in red </figcaption>
     </div> 
+
 </div>
 
 
