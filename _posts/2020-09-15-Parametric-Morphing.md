@@ -16,7 +16,7 @@ permalink: "/cad/MorphingSurfaces/"
         <figcaption>Example of Mobius strip</figcaption>
     </div>
     <p class = "justify">
-    In the event where two Mobius strips are glued together on their side, the resulting shape is what is called a Klein bottle. Both the paramteric equations for the Klein bottle and the Mobius strip were found on Wikipedia. The Klein bottle and the morphing of the Mobius strip into the Klein bottle can be shown below. Keep in mind that this morphing technic does not show how two Mobius strips are glued to give the Klein bottle but just a common parametric morphing. 
+In the event where two Mobius strips are glued together on their side, the resulting shape is called a Klein bottle. Both the parametric equations for the Klein bottle and the Mobius strip were found on Wikipedia. The Klein bottle and the morphing of the Mobius strip into the Klein bottle can be shown below. Keep in mind that this morphing technic does not show how two Mobius strips are glued to give the Klein bottle but just a common parametric morphing.
     </p>
         <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Klein.PNG" width="60%" height="60%">
@@ -34,7 +34,7 @@ permalink: "/cad/MorphingSurfaces/"
         <figcaption>Bezier Curves in blue for control points in red</figcaption>
     </div>  
     <p class = "justify">
-    More on Bezier surface can be found in the post<a class = "ex1 ex3" href="/portfolio/cad/nDBezier/" target="_blank"> "Bézier objects in higher dimensions" </a>. When the points represent experimental data, Bezier curves and surfaces are a great way of averaging out the results. 
+    More on Bezier surface can be found in the post<a class = "ex1 ex3" href="/portfolio/cad/nDBezier/" target="_blank"> "Bézier objects in higher dimensions" </a>. When the points represent experimental data, Bezier curves and surfaces are a great way of averaging the results.
     </p>
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/BezierEvol.gif" width="70%" height="70%">

@@ -57,31 +57,26 @@ permalink: "/cad/nDBezier/"
     $$ V(u,v,w) = \sum ^{n}_{i=0} \sum ^{m}_{j=0} \sum ^{l}_{k=0} B^{n}_{i}(u) \cdot B^{m}_{j}(v) \cdot B^{l}_{k}(w)\cdot P_{i,j,k} $$
     where P is the matrix of points and \(P_{i,j,k}\) is the point at location i and j in the matrix and n, and m are the numbers of points both directions. \(B^{n}_{i}(u)\) and \(B^{m}_{j}(v)\) were explained earlier. \(B^{l}_{k}(w)\)  is the Bernstein polynomial applied in the w direction:
     $$ B^{l}_{k}(w) =  \binom{l}{k} (1-w)^{l-k}\cdot w^k  $$
-    Now, this is where the obvious becomes interesting: the same way a uni-dimensional Bézier object (a curve) needs at least two-dimensional control points to e curved, three-dimensional Bézier objects (volume) need at least four-dimensional control points to exist.
+    Now, this is where the obvious becomes interesting: the same way a uni-dimensional Bézier object (a curve) needs at least two-dimensional control points to be curved, three-dimensional Bézier objects (volume) need at least four-dimensional control points to avoid being regular cubes and the values for the fourth coordinate cannot all be zero.
     The problem here lies in the fact that the human eye cannot visualize four-dimensional elements. <br>
-    This is where projection is important. For this project to be completed, the four-dimensional object must be projected into a three-dimensional world. In 3D, the shadow of any object is the 2D projection of that object. To be able to see Bézier solids, we need to take the 3D shadow of a 4D object. The figures below show a hypercube (4D cube) projected to 3D and rotated at different angles. 
+    This is where projection is important. For this project to be completed, the four-dimensional points must be projected into a three-dimensional world. In 3D, the shadow of any object is the 2D projection of that object. To be able to see Bézier solids, we need to take the 3D shadow of a 4D object.
     </p> 
-    <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/BzvolumeProjected.png" width="50%" height="50%">
-        <figcaption> Hypercube projected (not rotated) </figcaption>
-    </div>
-    <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/" width="40%" height="40%">
-        <img src="/portfolio/assets/img/" width="40%" height="40%">
-        <figcaption> Hypercube projected and rotated (the pictures will be shown soon)</figcaption>
-    </div>
     <p class = "justify">
-          The pictures below show the shadow two Bézier solid cases, where the control points are restricted to a 3D domain, and the other where the control points belong can exist in a 4D domain. 
+          The pictures below show the shadow two Bézier solid cases, where the control points are restricted to a 3D domain (the value of the fourth coordinate is 0 for all points), and the other where the control points belong can exist in a 4D domain. 
     </p>
         <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/BzvolumeProjected.png" width="50%" height="50%">
-        <figcaption> Bézier solid with 3D control points </figcaption>
+        <img src="/portfolio/assets/img/Bzvolumeflat.png" width="40%" height="40%">
+        <img src="/portfolio/assets/img/Bzvolumeflat2.png" width="40%" height="40%">
+        <img src="/portfolio/assets/img/Bzvolumeflat3.png" width="40%" height="40%">
+        <figcaption> The images above show a Bézier solid projected (a) and rotated around the xz axis and zw axis (b and c) - control points are in red </figcaption>
     </div>     
     <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/" width="50%" height="50%">
-        <figcaption>Bézier solid with 4D control points projected and rotated (the pictures will be shown soon)</figcaption>
-    </div>
-    
+        <img src="/portfolio/assets/img/Bzvolume.png" width="40%" height="40%">
+        <img src="/portfolio/assets/img/Bzvolume2.png" width="40%" height="40%">
+        <img src="/portfolio/assets/img/Bzvolume3.png" width="40%" height="40%">
+        <img src="/portfolio/assets/img/Bzvolume4.png" width="40%" height="40%">
+        <figcaption> Bézier solid made with 4D points projected to 3D (a and b) and rotated around the zw axis (c and d) - control points are in red </figcaption>
+    </div> 
 </div>
 
 
