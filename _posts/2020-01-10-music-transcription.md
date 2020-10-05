@@ -51,7 +51,7 @@ permalink: "/music/transcription/"
         <li>There is still noise from the audio file that can often be confused as notes. </li>
         <li>For guitars, there are multiple locations for the same note; thus, we should find how the set of locations that minimize the total distance traveled by the fingers. </li>
       </ul>
-
-
+        </p>
+</div>
 
 

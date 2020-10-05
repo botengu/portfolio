@@ -62,16 +62,16 @@ permalink: "/cad/nDBezier/"
     This is where projection is important. For this project to be completed, the four-dimensional points must be projected into a three-dimensional world. In 3D, the shadow of any object is the 2D projection of that object. To be able to see Bézier solids, we need to take the 3D shadow of a 4D object.
     </p> 
     <p class = "justify">
-          The pictures below show the shadow two Bézier solid cases, where the control points are restricted to a 3D domain (the value of the fourth coordinate is 0 for all points), and the other where the control points belong can exist in a 4D domain. 
+          The pictures below show the shadow two Bézier solids. For the first set of images, the control points of the bezier solids are "flat" in 4D (the value of the fourth coordinate is 0 for all points), and for the second set of images, the control points can have non-zero fourth coordinate. 
     </p>
-        <div class="w3-main w3-center" >
+    <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Bzvolumeflat.png" width="40%" height="40%">
         <img src="/portfolio/assets/img/Bzvolumeflat2.png" width="40%" height="40%">
         <img src="/portfolio/assets/img/Bzvolumeflat3.png" width="40%" height="40%">
         <figcaption> The images above show a Bézier solid projected (a) and rotated around the xz axis and zw axis (b and c) - control points are in red </figcaption>
     </div>     
     <p class = "justify">
-    It should be made clear that the previous images do not show a tesseract, it shows a cube (8 vertices, 6 faces) in hyperspace rotated in hyperspace and projected to a three-dimensional space. 
+    It should be made clear that the previous images do not show a tesseract, it shows a cube (8 vertices, 6 faces) created and rotated in the fourth dimension and projected to a three-dimensional space. The same way the flat surface \(S(u,v)\) was a rectangle in three dimensional space. Adding non-zero third coordinates allowed us to add waves to the flat surfaces, those waves can only be fully seen if the observer can see in 3D. The following set of images show a non flat cube with 4D coordinates which can only be fully seen in 4D. To give the observer a sense of the "waves", the solid was rotated in 4D and projected back to 3D mutliple times.  
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Bzvolume.png" width="40%" height="40%">
