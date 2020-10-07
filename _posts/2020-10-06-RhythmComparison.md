@@ -1,29 +1,21 @@
+
 ---
 layout: post
 title:  Obtaining Meshes from Parametric Surfaces    
 categories: jekyll update
-permalink: "/cad/Paramesh/"
+permalink: "/music-/Shapeanlysis/"
 ---
 
 <div class="w3-row ">
-    <h1 style="text-align:center">Obtaining meshes from parametric surfaces</h1>
+    <h1 style="text-align:center">Shape signature and fast fourier transform for rhythm comparison</h1>
     <p class = "justify">
-    An equation can usually take two forms, it can either be general or be parametric. To showcase the difference between the two forms, here is how the general form and the parametric form would look like for the equation of a sphere. <br>
-    General form: 
-    $$ {x^2+y^2+z^2} = r^2 $$
-    Parametric form: 
-    $$ x= r \cdot cos(\phi)\cdot sin(\theta) $$
-    $$ y= r \cdot cos(\phi)\cdot sin(\theta) $$
-    $$ z= r \cdot sin(\phi) $$
-    where r is the radius of the sphere and where \(\theta \) and \(\phi \) are the angular parameters that are used to span the whole sphere from its centr. ( \( 0 \leq \theta \leq \pi\) and \( 0 \leq \phi \leq 2\pi\) ). 
-    The parametric form uses additional parameters to express the cartesian coordinates. More shapes can be represented in parametric form. This is also because we can choose the amount of parameters on which the cartesian coordinates will depend. For example, we can create a curve in 3D by making all three coordinates dependent on only one parameter, which cannot be done using general form.  We can also create a surface in 3D by making the cartesian coordinates dependent on two parameters. <br> 
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/Mobius.PNG" width="30%" height="30%">
         <figcaption> The Mobius strip is an example of surface that can only be expressed in parametric form</figcaption>
     </div>
     <p class = "justify">
-    The parametric form also has disadvantages. The technic I use to do implicit modeling in python is done quickly by creating 3 arrays of the same dimensions, representing the x, y and z coordinates. Those arrays can be added, multiplied, subtracted etc.. like normal variables to obtain a final array \( f(x,y,z) \). The final result is an array of points. Each point has a value.
+    Th parametric form also has disadvantages. The technic I use to do implicit modeling in python is done quickly by creating 3 arrays of the same dimensions, representing the x, y and z coordinates. Those arrays can be added, multiplied, subtracted etc.. like normal variables to obtain a final array \( f(x,y,z) \). The final result is an array of points. Each point has a value.
     Creating a solid is the equivalent of creating a border between the points that are below a certain value and the ones that are above that value. That border is commonly referred to as the isocontour. 
     </p> 
     <div class="w3-main w3-center" >
@@ -59,5 +51,7 @@ permalink: "/cad/Paramesh/"
         <figcaption>Thickened Mobius strip using method 2</figcaption>
     </div> 
 </div>
+
+
 
 
