@@ -17,7 +17,7 @@ permalink: "/cad/nDBezier/"
     for 0 \(\leq\) u \(\leq\)  1. 
     </p>
     <p class = "justify">
-    Quadratic Bézier curves are interpolations of two linear interpolations (the one between the first and second points and the one between the second and third points). Higher-order Bézier curves ( which require more than two points) follow the same pattern. Overall, the  nth degree Bézier curve can be obtained by the following function: 
+    Higher-order Bézier curves ( which require more than two points) follow the same pattern. Overall, the  nth degree Bézier curve can be obtained by the following function: 
     $$ C(u) = \sum ^{n}_{i=0} B^{n}_{i}(u) \cdot P_{i} $$
     where  \(P_{i}\) is the ith control point and n is the number of points and \(B^{n}_{i}(u)\) is the Bernstein polynomial in the u direction:
     $$ B^{n}_{i}(u)=  \binom{n}{i} (1-u)^{n-i}\cdot u^i  $$
