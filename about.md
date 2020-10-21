@@ -19,37 +19,55 @@ permalink: "/about/"
 
 <h2 class="section-title">Relevant Experiences</h2>
 
+<div class="=w3-container w3-leftbar w3-rightbar w3-border-yellow">
+    <div class="w3-card w3-container " style="min-height:120px">
+    <h3 style =" text-align: right" > Research Assistant</h3>
+	<img src="/portfolio/assets/img/Waterloo.PNG" width="20%" height="20%" style="margin-left:40%">
+	</div>
+</div>
+<br>
 <div class="=w3-container  w3-leftbar w3-rightbar w3-border-blue">
     <div class="w3-card w3-container " style="min-height:120px">
-    <h3 style =" text-align: right"> Engineering Intern</h3>
+    <h3 style =" text-align: right"> Engineering Intern </h3>
 	<img src="/portfolio/assets/img/PWC.png" width="20%" height="20%" style="margin-left:40%">
 	</div>
 </div>
 <br>
 <div class="=w3-container w3-leftbar w3-rightbar w3-border-red">
     <div class="w3-card w3-container " style="min-height:120px">
-    <h3 style =" text-align: right" > Research assistant</h3>
+    <h3 style =" text-align: right"> Research Intern </h3>
 	<img src="/portfolio/assets/img/McGill.png" width="20%" height="20%" style="margin-left:40%">
 	</div>
 </div>
 
 <h2 class="section-title">Education</h2>
-<div class="=w3-container w3-leftbar w3-rightbar w3-border-red">
 
-<div class="w3-half ">
-  <div class="w3-card w3-container w3-center w3-block w3-topbar w3-leftbar w3-border-red" style="min-height:370px">
-    <h3>McGill University</h3> <br>
-    <img src="/portfolio/assets/img/mcgill_2.png" width="120" height="0.001%"  class="center">
-    </div> 
-</div>  
-<div class="w3-half ">
-  <div class="w3-card w3-container w3-center w3-topbar  w3-rightbar w3-border-yellow" style="min-height:370px">
-    <h3>University of Waterloo</h3> <br><br>
-    <img src="/portfolio/assets/img/waterloo_2.png" class="center" width="120%" height="120%">
-  </div>
+<div class="w3-half w3-center  w3-container" style="min-height:400px">
+    <h3>University of Waterloo</h3> <br>
+    <img src="/portfolio/assets/img/waterloo_2.png" class="center" >
+    <br>
 </div> 
-</div>
 
+<div class="w3-card w3-half w3-center  w3-container" style="min-height:400px">
+    <h3>Nanyang Technological University</h3> <br>
+    <img src="/portfolio/assets/img/Nanyang.png" class="center" height="20%">
+    <br>
+</div> 
+
+
+<div class="w3-card w3-half w3-center  w3-container" style="min-height:400px">
+    <h3>McGill University</h3> <br>
+    <img src="/portfolio/assets/img/mcgill_2.png" class="center" height="20%">
+    <br>
+</div> 
+
+<div class="w3-half w3-center  w3-container" style="min-height:400px">
+    <h3>Beihang University</h3> <br>
+    <img src="/portfolio/assets/img/Beihang.gif" class="center" height="20%">
+    <br>
+</div> 
+
+<br>
 
 <h2 class="section-title  w3-center ">Resume</h2>
 <div class="w3-container w3-center">
@@ -60,7 +78,7 @@ permalink: "/about/"
 
 
 
-</div> 
+
 
 
 
