@@ -50,7 +50,7 @@ permalink: "/about/"
 
 <div class="w3-card w3-half w3-center  w3-container" style="min-height:400px">
     <h3>Nanyang Technological University</h3> <br>
-    <img src="/portfolio/assets/img/Nanyang.png" class="center" height="20%">
+    <img src="/portfolio/assets/img/Nanyang.png" class="center" height="100%">
     <br>
 </div> 
 
