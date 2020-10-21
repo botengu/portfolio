@@ -22,7 +22,7 @@ permalink: "/about/"
 <div class="=w3-container w3-leftbar w3-rightbar w3-border-yellow">
     <div class="w3-card w3-container " style="min-height:120px">
     <h3 style =" text-align: right" > Research Assistant</h3>
-	<img src="/portfolio/assets/img/Waterloo.PNG" width="20%" height="20%" style="margin-left:40%">
+	<img src="/portfolio/assets/img/Waterloo.png" width="20%" height="20%" style="margin-left:40%">
 	</div>
 </div>
 <br>
@@ -44,13 +44,13 @@ permalink: "/about/"
 
 <div class="w3-half w3-center  w3-container" style="min-height:400px">
     <h3>University of Waterloo</h3> <br>
-    <img src="/portfolio/assets/img/waterloo_2.png" class="center" >
+    <img src="/portfolio/assets/img/waterloo_2.png" class="center" height="20%" >
     <br>
 </div> 
 
 <div class="w3-card w3-half w3-center  w3-container" style="min-height:400px">
     <h3>Nanyang Technological University</h3> <br>
-    <img src="/portfolio/assets/img/Nanyang.png" class="center" height="100%">
+    <img src="/portfolio/assets/img/Nanyang.png" class="center" height="20%">
     <br>
 </div> 
 
