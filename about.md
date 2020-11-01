@@ -21,7 +21,7 @@ permalink: "/about/"
 
 <div class="=w3-container w3-leftbar w3-rightbar w3-border-yellow">
     <div class="w3-card w3-container " style="min-height:120px">
-    <h3 style =" text-align: right" > Research Assistant</h3>
+    <h3 style =" text-align: right" > Research Associate</h3>
 	<img src="/portfolio/assets/img/Waterloo.png" width="20%" height="20%" style="margin-left:40%">
 	</div>
 </div>
