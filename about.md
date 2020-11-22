@@ -69,7 +69,7 @@ permalink: "/about/"
 
 <br>
 
-<h2 class="section-title  w3-center ">Resume</h2>
+<h2 class="section-title  w3-center ">Resume -</h2>
 <div class="w3-container w3-center">
   <a href="/portfolio/assets/pdf/Resume.pdf" target="_blank" > 
   <i class="fa fa-file-text big" style="font-size:120px"></i>
