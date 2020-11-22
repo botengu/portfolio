@@ -39,6 +39,19 @@ permalink: "/about/"
 	<img src="/portfolio/assets/img/McGill.png" width="20%" height="20%" style="margin-left:40%">
 	</div>
 </div>
+<br>
+<br>
+<div class="=w3-container">
+<div class="w3-container w3-center">
+  <a href="/portfolio/assets/pdf/Resume.pdf" target="_blank" > 
+  <i class="fa fa-file-text big" style="font-size:120px"></i>
+  RESUME</a> 
+</div>
+</div>
+
+
+<br>
+<br>
 
 <h2 class="section-title">Education</h2>
 
@@ -66,15 +79,6 @@ permalink: "/about/"
     <img src="/portfolio/assets/img/Beihang.gif" class="center" height="20%">
     <br>
 </div> 
-
-<br>
-
-<h2 class="section-title  w3-center ">Resume -</h2>
-<div class="w3-container w3-center">
-  <a href="/portfolio/assets/pdf/Resume.pdf" target="_blank" > 
-  <i class="fa fa-file-text big" style="font-size:120px"></i>
-  </a> 
-</div>
 
 
 
