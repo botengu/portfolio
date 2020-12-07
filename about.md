@@ -45,7 +45,7 @@ permalink: "/about/"
 <div class="w3-container w3-center">
   <a href="/portfolio/assets/pdf/Nsiempba_Ken_Resume.pdf" target="_blank" > 
   <i class="fa fa-file-text big" style="font-size:120px"></i>
-  RESUME</a> 
+  Resume</a> 
 </div>
 </div>
 
