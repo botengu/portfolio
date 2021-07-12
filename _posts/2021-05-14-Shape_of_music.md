@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Shape of Music
-permalink: "/pusic/shapemusic/"
+permalink: "/pusic/shapePusic/"
 ---
 
 <div class="w3-row">
