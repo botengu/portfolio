@@ -13,11 +13,10 @@ What are musical scales? Are the sequences of notes in musical scales based sole
 <br>
 <div class="w3-main w3-center" >
     <iframe width="300" height="160"
-        src="https://youtu.be/embed/rfNSPvh0yk8">
+        src="https://www.youtube.com/embed/rfNSPvh0yk8">
     </iframe>
 </div> 
 
-</div>
 
 
 
