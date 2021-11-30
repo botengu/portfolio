@@ -43,7 +43,7 @@ permalink: "/about/"
 <br>
 <div class="=w3-container">
 <div class="w3-container w3-center">
-  <a href="/portfolio/assets/pdf/Nsiempba_Ken_Resume.pdf" target="_blank" > 
+  <a href="/portfolio/assets/pdf/Nsiempba_Ken_Resume_2.pdf" target="_blank" > 
   <i class="fa fa-file-text big" style="font-size:120px"></i>
   Resume</a> 
 </div>
