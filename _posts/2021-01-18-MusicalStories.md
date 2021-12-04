@@ -11,7 +11,7 @@ Now, this is probably the first project that I have started which does not requi
 The project consists of youtube videos; I go over some musical styles/patterns as well as some musical anecdotes, obtained from readings or interviews, and I then use them to provide insights into our social life and society in general.
 <br>
 <br>
-In my videos I do not like to blatantly state facts about a certain artists or a musical styles. I make analysis and I narrate a story around my analysis. The themes of the videos are introduced by an artist or a band, but ultimately the artist/band is just a stepping stone to talk about the theme. The themes of the videos I make usually revolved around three topics. 
+In my videos I do not like to blatantly state facts about certain artists or a musical styles. I make analysis and I narrate a story around my analysis. The themes of the videos are introduced by an artist or a band, but ultimately the artist/band is just a stepping stone to talk about the theme. The themes of the videos I make usually revolved around three topics. 
 <br>
 The first topic is the creative artistic process. The videos in that virtual category are usually a bit more techinical as they involve elements that are relevant to the creation of musical, dance or even fashion concepts. Those elements are usually highlighted to show how some musical trends are similar or different. 
 <br>

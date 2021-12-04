@@ -8,13 +8,14 @@ permalink: "/cad/Arch/"
     <h1 style="text-align:center">My architectural portfolio</h1>
       <p class = "justify">
 <br>
-I was required to do an architectural portfolio. The link to it can be found right below:  
+I was required to do an architectural portfolio. In that portfolio, I discuss my philosophy on computational design. I have used that philosophy to render some interesting buildings. 
+
 <br>
 <br>
 
 <div class="row w3-center"  style="margin-top:20px">
     <div class="w3-third w3-center" style="margin-left:33%">
-    <h3 >Hover on icon below</h3><br>
+    <h3 >To see the portfolio, hover on icon below</h3><br>
     <a href="/portfolio/assets/pdf/Nsiempba_Portfolio.pdf" target="_blank" >
     <i class="fa fa-building-o big" style="font-size:120px"></i>
     </a>
