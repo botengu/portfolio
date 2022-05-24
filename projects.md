@@ -32,7 +32,7 @@ permalink: "/projects/"
     </div>
     <br>
     {% for item in site.posts %}
-    {% if item.url contains 'finance'%}
+    {% if item.url contains 'datasc'%}
     <a href="{{ item.url | absolute_url }}"  >
         <div class="w3-card w3-container w3-center ex1 ex3 border2" style="min-height:50px ">
         <h5>{{ item.title }}</h5>

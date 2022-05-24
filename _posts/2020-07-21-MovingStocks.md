@@ -3,7 +3,7 @@ layout: post
 title:  Machine Learning for Stocks Analysis pt2
 date:   2020-07-10 23:32:57 -0400
 categories: jekyll update
-permalink: "/finance/datasc/"
+permalink: "/datasc/MovingStocks/"
 ---
 
 <div class="w3-row">
