@@ -12,7 +12,7 @@ permalink: "/projects/"
   <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
     <h3>Geometry</h3>
-    <i class="fa-solid fa-shapes w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
+    <i class="fa fa-shapes w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     </div >
     <br>
     {% for item in site.posts %}
