@@ -12,7 +12,7 @@ permalink: "/projects/"
   <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
     <h3>Geometry</h3>
-    <i class="fas fa-shapes w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
+    <i class="fas fa-shapes w3-margin-bottom w3-text-theme" style="font-size:120px"><link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"></i>
     </div >
     <br>
     {% for item in site.posts %}
