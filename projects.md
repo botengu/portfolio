@@ -11,7 +11,7 @@ permalink: "/projects/"
 <div class="row" >
   <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
-    <h3>Comp. Geo.</h3>
+    <h3>Geometry</h3>
     <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     </div >
     <br>
@@ -27,7 +27,7 @@ permalink: "/projects/"
     </div>  
     <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
-    <h3>Finance</h3>
+    <h3>Data Science</h3>
     <i class="fa fa-usd w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     </div>
     <br>
