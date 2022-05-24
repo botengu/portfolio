@@ -6,7 +6,7 @@ author: "Ken Nsiempba"
 
 
 <div class="sidebar">
-  <button class="dropdown-btn">Comp. Geo. 
+  <button class="dropdown-btn">Geometry
     <i class="fa fa-caret-down"></i>
   </button>
   <div  class="dropdown-container">
@@ -17,12 +17,12 @@ author: "Ken Nsiempba"
     {% endfor %}
   </div>
 
-  <button class="dropdown-btn">Finance 
+  <button class="dropdown-btn">Data Science 
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-container">
     {% for post in site.posts %}
-    {% if post.url contains "finance" %}
+    {% if post.url contains "datasc" %}
     <a href="{{post.url | absolute_url }}"><li>{{ post.title }}</li></a>
     {% endif %}
     {% endfor %}
