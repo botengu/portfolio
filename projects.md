@@ -3,6 +3,8 @@ layout: page
 title: Projects
 permalink: "/projects/"
 ---
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
 
 <div class="w3-container w3-center">
   <h1 >Projects</h1>
@@ -12,7 +14,7 @@ permalink: "/projects/"
   <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
     <h3>Geometry</h3>
-    <i class="fa-thin fa-vector-polygon w3-margin-bottom w3-text-theme" style="font-size:120px"><link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"></i>
+    <i class="fas fa-draw-polygon w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     </div >
     <br>
     {% for item in site.posts %}
