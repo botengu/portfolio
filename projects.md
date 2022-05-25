@@ -12,7 +12,7 @@ permalink: "/projects/"
   <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
     <h3>Geometry</h3>
-    <i class="fas fa-draw-polygon w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
+    <i class="fa fa-draw-polygon w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     </div >
     <br>
     {% for item in site.posts %}
@@ -28,7 +28,7 @@ permalink: "/projects/"
     <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
     <h3>Data Science</h3>
-    <i class="fas fa-chart-line w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
+    <i class="fa fa-chart-line w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     </div>
     <br>
     {% for item in site.posts %}
@@ -44,7 +44,7 @@ permalink: "/projects/"
     <div class="column">
     <div class="w3-card w3-container w3-center border" style="min-height:200px">
     <h3>Music</h3>
-    <i class="fas fa-music w3-margin-bottom w3-text-theme " style="font-size:120px"></i>
+    <i class="fa fa-music w3-margin-bottom w3-text-theme " style="font-size:120px"></i>
     </div>
     <br>
     {% for item in site.posts %}
