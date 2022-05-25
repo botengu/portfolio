@@ -10,7 +10,7 @@ permalink: "/datasc/MovingStocks/"
     <h1 style="text-align:center">Principal component analysis to visualize stocks' evolution</h1>
     <p class = "justify">
 
-    This post is the continuation of a previous post made about machine learning and stocks <a class = "ex1 ex3" href="portfolio/datasc/ClusterStocks/" target="_blank" > (here) </a>. To understand the concepts that will be discussed, it is necessary to understand those discussed earlier. 
+    This post is the continuation of a previous post made about machine learning and stocks <a class = "ex1 ex3" href="/datasc/ClusterStocks/" target="_blank" > (here) </a>. To understand the concepts that will be discussed, it is necessary to understand those discussed earlier. 
     I want to continue with the idea of representing stock price trends (STPs) using points in a cartesian graph. Last time, the SPT I had discussed were studied over a fixed period. However, it would be interesting to study how those SPTs evolve over a certain amount of time. By increasing the period during which we measure the SPT, we make those points on the cartesian graph to potentially affect the existing clusters. The image below shows how the periods can be taken. 
     </p> 
     <div class="w3-main w3-center" >
