@@ -7,22 +7,28 @@ permalink: "/datasc/MovingStocks/"
 ---
 
 <div class="w3-row">
-    <h1 style="text-align:center">Principal component analysis to visualize stocks' evolution</h1>
+    <h1 style="text-align:center">  </h1>
     <p class = "justify">
 
     This post is the continuation of a previous post made about machine learning and stocks <a class = "ex1 ex3" href="/portfolio/datasc/ClusterStocks/" target="_blank" > (here) </a>. To understand the concepts that will be discussed, it is necessary to understand those discussed earlier. 
-    I want to continue with the idea of representing stock price trends (STPs) using points in a cartesian graph. Last time, the SPT I had discussed were studied over a fixed period. However, it would be interesting to study how those SPTs evolve over a certain amount of time. By increasing the period during which we measure the SPT, we make those points on the cartesian graph to potentially affect the existing clusters. The image below shows how the periods can be taken. 
+    I want to continue with the idea of representing stock price trends (STPs) using points in a cartesian graph. Last time, the SPT I had discussed were studied over a fixed period. However, it would be interesting to study how those SPTs evolve for different time periods. 
     </p> 
     <div class="w3-main w3-center" >
         <img src="/portfolio/assets/img/MSFT_periods.PNG" width="50%" height="50%">
         <figcaption>Diagram representing how the periods are taken, original picture taken from google.</figcaption>
     </div>
     <p class = "justify">
-    The main justification of taking the periods this way rather than taking consecutive, separate intervals is that we want to measure how the trend is evolving. By continuously applying PCA over n periods, we get n points for one stock. Each one of the points shows the successive location of the SPT as we move forward in time. Below, I created an example rendered in Blender, of how to visualize the SPT of 4 stocks over a period.  When the distance between points decreases as the length of the period increases, the trends of two stock prices resemble each other more and more as we take bigger intervals of time. 
+    To illustrate the use of Stock Price Trend (SPT) point-cloud, I have selected 8 stocks, 4 pharmaceutical ones and 4 related to oil companies. Depending on the time-interval selected I can guess which trends are closer to which other. 
     </p>
     <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/PCA_stocks_absolute.gif" width="50%" height="50%">
-        <figcaption> 3D visualization of the SPTs of Microsoft (Yellow), Tesla (Green), Amazon (Red) and Google (Blue)</figcaption>
+        <img src="/portfolio/assets/img/Financial_stocks.gif" width="50%" height="50%">
+        <figcaption> 2D visualization of the SPTs for customly selected intervals (Oil SPTs are in red and Pharmaceutical SPTs are in green)</figcaption>
     </div>
+
+    <p class = "justify">
+    Multiple things can be inferred from the graph, first, pharmaceutical SPTs tend to be closer to each other than Oil SPTs; Their trends tend to be less diverse that those of Oil SPTs. Second, for a lot of time intervals, both types of SPTs seem to be at different sections of the canvas, indicating a clear distinction between the two types SPTs. 
+    </p>
+
+
 </div>
 
