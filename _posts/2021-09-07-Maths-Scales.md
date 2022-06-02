@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The mathematics behind musical scales
+title:  The Mathematics Behind Musical Scales
 permalink: "/music/MathsScale/"
 ---
 
