@@ -5,7 +5,7 @@ permalink: "/music/chladni/"
 ---
 
 <div class="w3-row">
-    <h1 style="text-align:center">Chladni plate for music visualization</h1>
+    <h1 style="text-align:center">Chladni Plates for Music Visualization</h1>
       <p class = "justify">
       When particles are thrown on a plate, and that plate is vibrating at a certain frequency, those particles will arrange in a certain pattern. Those patterns are commonly known as the Chladni plates/ Since notes are simply the frequencies with particular waves, Chladni plates are a great opportunity to visualize music.
         </p>
