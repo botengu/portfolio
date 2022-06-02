@@ -13,7 +13,7 @@ permalink: "/datasc/ETFOptimization/"
     To do the optimization, I have used the "simulated annealing" technic. Initially the weights could go from 0 to 100% but that made one stock overly represented and the other stocks had really small weights. To overcome this I introduced a limit, to ensure diversity the weights could not be over a certain percentage. They would all start at an equal weight and based on the performance of the stocks during the time period, they would be increased or decreased. The result can be seen below.
     </p> 
     <div class="w3-main w3-center" >
-        <img src="/portfolio/assets/img/ETF_STocks.gif" width="50%" height="50%">
+        <img src="/portfolio/assets/img/ETF_STocks.gif" width="60%" height="60%">
         <figcaption>Optimization of stock's weights to optimize an ETF performance during a defined time-interval </figcaption>
     </div>
 </div>
