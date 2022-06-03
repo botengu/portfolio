@@ -7,7 +7,7 @@ permalink: "/datasc/MovingStocks/"
 ---
 
 <div class="w3-row">
-    <h1 style="text-align:center">  </h1>
+    <h1 style="text-align:center"> Stocks price trend point-cloud for custom time interval </h1>
     <p class = "justify">
 
     This post is the continuation of a previous post made about machine learning and stocks <a class = "ex1 ex3" href="/portfolio/datasc/ClusterStocks/" target="_blank" > (here) </a>. To understand the concepts that will be discussed, it is necessary to understand those discussed earlier. 
