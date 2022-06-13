@@ -7,7 +7,7 @@ permalink: "/datasc/MovingStocks/"
 ---
 
 <div class="w3-row">
-    <h1 style="text-align:center"> Stocks price trend point-cloud for custom time interval </h1>
+    <h1 style="text-align:center"> Stocks price trend point-cloud for custom time intervals </h1>
     <p class = "justify">
 
     This post is the continuation of a previous post made about machine learning and stocks <a class = "ex1 ex3" href="/portfolio/datasc/ClusterStocks/" target="_blank" > (here) </a>. To understand the concepts that will be discussed, it is necessary to understand those discussed earlier. 
@@ -28,7 +28,6 @@ permalink: "/datasc/MovingStocks/"
     <p class = "justify">
     Multiple things can be inferred from the graph, first, pharmaceutical SPTs tend to be closer to each other than Oil SPTs; Their trends tend to be less diverse that those of Oil SPTs. Second, for a lot of time intervals, both types of SPTs seem to be at different sections of the canvas, indicating a clear distinction between the two types SPTs. 
     </p>
-
 
 </div>
 
