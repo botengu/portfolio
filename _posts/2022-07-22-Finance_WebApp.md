@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Fractals
+title:  Financial Web Application
 permalink: "/datas(remove)c/FinWebApp/"
 ---
 
