@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fractals
-permalink: "/datasc(remove)/FinWebApp/"
+permalink: "/datas(remove)c/FinWebApp/"
 ---
 
   <div class="w3-row ">
