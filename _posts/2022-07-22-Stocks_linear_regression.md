@@ -23,7 +23,7 @@ permalink: "/datasc/LinRegStock/"
         </div>
         <br>
         <p class = "justify">
-        What is interesting is that this table can be divided in multiple zones to further help the analysis (see image below). The stocks near the top have had the biggest increase for the chosen date. While the stocks at the bottom have had the lowest. The stocks on the left have had a steady change, while the ones on the right have had a messy one. So Ideally, the stocks you would want would be located in the top left corner (green zone). While the stocks you would want to avoid would be in the bottom right corner.
+        What is interesting is that this table can be divided in multiple zones to further help the analysis (see image below). The stocks near the top have had the biggest increase for the chosen date. While the stocks at the bottom have had the lowest. The stocks on the left have had a steady change, while the ones on the right have had a messy one. So Ideally, the stocks you would want would be located in the top left corner (green zone). While the stocks you would want to avoid would be in the bottom right corner (red zone).
         </p> 
         <div class="w3-main w3-center" >
             <img src="/portfolio/assets/img/Slope_Res_2.png" width="70%" height="70%">
