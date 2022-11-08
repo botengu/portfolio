@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Laplacian Smoothing and Marching Cubes 
-permalink: "/cad/smoothing/"
+permalink: "/dac/smoothing/"
 ---
 
   <div class="w3-row">

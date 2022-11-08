@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Smoothing Score
-permalink: "/datasc/smoothscore/"
+permalink: "/data**/smoothscore/"
 ---
 
   <div class="w3-row">
