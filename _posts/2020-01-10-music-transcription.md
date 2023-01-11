@@ -50,7 +50,7 @@ permalink: "/music/transcription/"
         <li>Some of the notes are right but are played at a lower octave (the frequency is halved), and there is also the noise, which creates additional random notes. </li>
         <li>There is still noise from the audio file that can often be confused as notes. </li>
         <li>For guitars, there are multiple locations for the same note; thus, we should find how the set of locations that minimize the total distance traveled by the fingers. </li>
-      </ul>
+        </ul>
         </p>
 </div>
 
