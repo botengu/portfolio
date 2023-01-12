@@ -12,10 +12,10 @@ permalink: "/cad/QuantPulmEde/"
         </p>
         <div class="w3-main w3-center">
             <img src="/portfolio/assets/img/Edema_Stages.png" width="80%" height="80%">
-            <figcaption>Pictures of the different stages of pulmonary Edema</figcaption>
+            <figcaption>Pictures of the different stages of pulmonary edema</figcaption>
         </div>
         <p class = "justify">
-        The method I propose first uses machine learning to segment and extract the pulmonary zones from the chest x-ray images.
+        The method I propose first uses machine learning to segment and extract the pulmonary zones from the chest x-ray images.<br>
         To do so, I used the lung segmentation code from the repository found here <a class = "ex1 ex3" href="https://github.com/imlab-uiip/lung-segmentation-2d/blob/master/train_model.py" target="_blank" > (repo) </a>. The models were trained using an architecture similar to UNet (which itself uses Convolutional Neural Networks for biomedical images). 
         <br>
         I was able to segment the 4 images of the different stages of Edema:
@@ -34,15 +34,14 @@ permalink: "/cad/QuantPulmEde/"
         <p class = "justify">
         Once this is done, I have used two relevant pieces of information to quantify the severity of the disease. On one side, there is the area of the segmented lungs, which can be obtained by computing the number of pixels above a certain threshold. On the other side, there is the blurriness of the pulmonary area.  
         <br>
-        In this case the blurriness was calculated by analyzing the standard deviation of the values of the pixels. So I thought that plotting the area vs the blurriness.
+        In this case the blurriness was calculated by analyzing the standard deviation of the values of the pixels. Then, all I did was plotting the area vs the blurriness.
         </p>
         <div class="w3-main w3-center">
             <img src="/portfolio/assets/img/Lungs_2.png" width="80%" height="80%">
-            2D plot of pulmonary area vs pulmonary blurriness for the 4 levels 
-            <figcaption></figcaption>
+            <figcaption>2D plot of pulmonary area vs pulmonary blurriness for the 4 levels </figcaption>
         </div>
         <p class = "justify">
-            It was expected that the level2 and level1 would be swapped. But if we look at the oriignal images, it seems that the level2 is less severe than the level1. <br>
+            It was expected that the level2 and level1 would be swapped. But if we look at the orignal images, it seems that the level2 is less blurry than the level1. <br>
             Except for that, the blurriness vs area seems to be a good metric, but more data should be used to confirm that.  
         </p>
 <h2 style="text-align:center">References</h2>
