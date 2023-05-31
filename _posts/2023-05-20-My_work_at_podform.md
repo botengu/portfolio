@@ -14,9 +14,7 @@ permalink: "/cad/Feet_Scan/"
         </p>
         <div class="w3-main w3-center">
             <img src="/portfolio/assets/img/podform_1.gif" width="50%" height="50%">
-            <figcaption> <a class = "ex1 ex3" href=" http://www.dgp.toronto.edu/~karan/courses/csc418/fall_2002/notes/surfaces.html" target="_blank">Pictures of the different stages of pulmonary edema</a></figcaption>
             <img src="/portfolio/assets/img/podform_2.gif" width="50%" height="50%">
-            <figcaption> <a class = "ex1 ex3" href="https://services.math.duke.edu/education/ccp/materials/mvcalc/parasurfs/para3.html" target="_blank">Pictures of the different stages of pulmonary edema</a></figcaption>
         </div>
         <p class = "justify">
         Positive: By having the same parametric system on many surfaces, design that were initially on one surface can be mapped to another surface, this is efficient in surface warping. <br>
