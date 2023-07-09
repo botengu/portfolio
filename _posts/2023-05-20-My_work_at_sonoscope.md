@@ -33,7 +33,7 @@ permalink: "/cad/MedImag/"
             <figcaption>Latent space for the patients' morphologies</figcaption>
         </div>
         <p class = "justify">
-        The third one is the automatic segmentation of of CT SCANS: 
+        The third one is the automatic segmentation of CT SCANS: 
         <br>
         <ul>
         <li>Hiring a firm to segment the ct scans was getting expensive and it using different thresholding technics my role was to find a way to identify the different parts of the thorax. The pictures below shows how far I made it:</li>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Smoothing score
-permalink: "/c$ad/Impl_Laplace/"
+permalink: "/cad/Impl_Laplace/"
 ---
 
   <div class="w3-row">
