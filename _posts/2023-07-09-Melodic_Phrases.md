@@ -10,9 +10,11 @@ permalink: "/music/mel_phrases/"
         Recently, I made a video about makossa music, a popular genre in Cameroon. The video is in French, and I have included a personal aspect to it, given my upbringing in the Cameroonian diaspora in Montreal. My parents immigrated from Cameroon in the mid-80s and early 90s, during the peak of the "new wave makossa." They didn't follow the subsequent trends that emerged from the country after the decline of makossa. Growing up in the early 2000s, my sister and I have fond memories of listening to old Dina Bell CDs and "Testament du Makossa" by the amazing bass player, Aladji Toure.
         <br>
         </p>
-        <iframe width="300" height="160"
-        src="https://www.youtube.com/embed/wCJ50xkwLLs">
+        <div class="w3-main w3-center" >
+        <iframe width="640" height="360"
+        src="https://www.youtube.com/embed/6-NzwfM6ZtI">
         </iframe>
+        </div>
         <p class = "justify">
         In the video, I delve into the genre's history and also discuss a recurring melodic phrase that I've noticed in many makossa songs. However, in this post, I'd like to focus more on the process behind creating the musical graph that you can see at the end of the video.
         <br>
@@ -20,11 +22,13 @@ permalink: "/music/mel_phrases/"
         The first column represents the note as a number, the second column indicates the relative start time of the note, and the third column represents the duration of the note. 
         </p>
         <div class="w3-main w3-center">
-            <img src="/portfolio/assets/img/mwassa_Vis_pic.png" width="50%" height="50%">
+            <img src="/portfolio/assets/img/mwassa_Vis_pic.png" width="80%" height="80%">
             <figcaption>Notes sequence in FL studio </figcaption>
-            <img src="/portfolio/assets/img/midi_picture.png" width="50%" height="50%">
+            <br>
+            <img src="/portfolio/assets/img/midi_picture.png" width="80%" height="80%">
             <figcaption>Imported notes in Jupyter notebook using mido</figcaption>
-            <img src="/portfolio/assets/img/midi_picture_2.png" width="50%" height="50%">
+            <br>
+            <img src="/portfolio/assets/img/midi_picture_2.png" width="30%" height="30%">
             <figcaption>Final 2D array of notes </figcaption>
         </div>
         <p class = "justify">
@@ -33,6 +37,7 @@ permalink: "/music/mel_phrases/"
         <div class="w3-main w3-center">
             <img src="/portfolio/assets/img/Mwassa_Vis_Graph.png" width="50%" height="50%">
             <figcaption>Graph linking the whole phrase </figcaption>
+            <br>
             <img src="/portfolio/assets/img/Mwassa_Vis_Graph_2.png" width="50%" height="50%">
             <figcaption>The two segments superposed</figcaption>
         </div>
