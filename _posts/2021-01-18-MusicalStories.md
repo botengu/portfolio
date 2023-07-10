@@ -35,16 +35,16 @@ The second topic pertains to leadership and band management. I call it the "poli
 <br>
 </p>
     <div class="w3-main w3-center" >
-    <iframe width="300" height="160"
+    <iframe width="320" height="180"
         src="https://www.youtube.com/embed/wCJ50xkwLLs">
     </iframe>
-    <iframe width="300" height="160"
+    <iframe width="320" height="180"
         src="https://www.youtube.com/embed/1nMRrl4h7s0">
     </iframe>
-    <iframe width="300" height="160"
+    <iframe width="320" height="180"
         src="https://www.youtube.com/embed/3j-G1m2UMxY">
     </iframe>
-        <iframe width="300" height="160"
+        <iframe width="320" height="180"
         src="https://www.youtube.com/embed/M3WStZ1unSg">
     </iframe>
     </div> 
@@ -55,17 +55,14 @@ Last but not least, there is the "cultural phenomenon" topic. This one is a bit 
 <br>
 </p>
 <div class="w3-main w3-center" > 
-    <iframe width="300" height="160"
+    <iframe width="320" height="180"
         src="https://www.youtube.com/embed/ERZ5SKnCdX0">
     </iframe>
-    <iframe width="300" height="160"
+    <iframe width="320" height="180"
         src="https://www.youtube.com/embed/KILOUbTvhn0">
     </iframe>
-    <iframe width="300" height="160"
+    <iframe width="320" height="180"
         src="https://www.youtube.com/embed/nZzfFNOCwLU">
-    </iframe>
-        <iframe width="300" height="160"
-        src="https://www.youtube.com/embed/frX1czimIMw">
     </iframe>
 </div> 
  <p class = "justify">
@@ -74,7 +71,7 @@ Finally, other videos combine more than one of those topics.
 <br>
 </p>
 <div class="w3-main w3-center" >
-    <iframe width="300" height="160"
+    <iframe width="320" height="180"
         src="https://www.youtube.com/embed/GPsnGIlaAXc">
     </iframe>
     </div> 
