@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Melodic Phrases
-permalink: "/music/mel_phrases/"
+permalink: "/mu$sic/mel_phrases/"
 ---
 
   <div class="w3-row">
