@@ -37,12 +37,11 @@ To learn more about the buildings and the historical figures they've been named 
 </p>
 
 
-    <div class="w3-third w3-center" style="margin-left:33%">
-    <h3 >To see the portfolio, hover on icon below</h3><br>
-    <a href="/portfolio/assets/pdf/Nsiempba_Portfolio.pdf" target="_blank" >
-    <i class="fa fa-building-o big" style="font-size:120px"></i>
-    </a>
-    </div>
+
+<h3 >To see the portfolio, hover on icon below</h3><br>
+<a href="/portfolio/assets/pdf/Nsiempba_Portfolio.pdf" target="_blank" >
+<i class="fa fa-building-o big" style="font-size:120px"></i>
+</a>
 
 
 <p class = "justify">
