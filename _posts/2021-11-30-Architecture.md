@@ -36,16 +36,21 @@ src="https://www.youtube.com/embed/_hgy1RzowPI">
 To learn more about the buildings and the historical figures they've been named after, I invite you to take a look at my architectural portfolio below: 
 </p>
 
+</div>
 
-
+<div class="w3-main w3-center" >
 <h3 >To see the portfolio, hover on icon below</h3><br>
 <a href="/portfolio/assets/pdf/Nsiempba_Portfolio.pdf" target="_blank" >
 <i class="fa fa-building-o big" style="font-size:120px"></i>
 </a>
+</div>
 
 
+<div class="w3-row">
 <p class = "justify">
 Disclaimer:
+<br>
+<br>
 <br>
 
 I have not been mandated by anyone. The renderings shown here are purely for aesthetical display and are not a part of a bigger plan to be constructed in real life or whatsoever. They are just the products of a "wandering mind".
