@@ -39,7 +39,7 @@ permalink: "/music/mel_phrases/"
             <figcaption>Graph linking the whole phrase </figcaption>
             <br>
             <img src="/portfolio/assets/img/Mwassa_Vis_Graph_2.png" width="50%" height="50%">
-            <figcaption>The two segments superposed</figcaption>
+            <figcaption>The two segments superimposed</figcaption>
         </div>
         <p class = "justify">
         The purpose of this exercise was to demonstrate the contrast between successive melodic segments within a melodic phrase. This analysis helped me further explore the musical characteristics or signature of the genre. In this case, the first segment ends on the third note of the scale, while the second segment ends on the first note of the scale, also known as the tonic note. Ending on the tonic note often provides a sense of finality, while ending on the third note creates a feeling of partial closure.
