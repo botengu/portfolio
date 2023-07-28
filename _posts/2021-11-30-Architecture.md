@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  Architecture
+title:  Architecture with A.I.
 permalink: "/cad/Arch/"
 ---
 
 <div class="w3-row">
-    <h1 style="text-align:center">AI for Architectural Rendering</h1>
+    <h1 style="text-align:center">A.I. for Architectural Rendering</h1>
 
 <p class = "justify">
 <br>
 So... I finally used AI to render my sketches!
 <br>
+<br>
 During the lockdown, I designed 3D sketches of buildings, but I had a hard time turning them into decent renderings.
+<br>
 <br>
 That problem was solved using Stable Diffusion and Control Nets. I'm not completely satisfied with the final renderings, but for now, they'll do.
 <br>
+<br>
 The afro-futuristic architectural designs shown in the video below have been inspired by cultural elements of the Bamilike people, an ethnic group located in grassfields of the west part of Cameroon (A nation in Central Africa). 
+<br>
 <br>
 The buildings are part of a space that I've named: Mileka (the first name that came to mind, although I know some of you will understand why...)
 </p>
@@ -32,14 +36,14 @@ src="https://www.youtube.com/embed/_hgy1RzowPI">
 To learn more about the buildings and the historical figures they've been named after, I invite you to take a look at my architectural portfolio below: 
 </p>
 
-<div class="row w3-center"  style="margin-top:20px">
+
     <div class="w3-third w3-center" style="margin-left:33%">
     <h3 >To see the portfolio, hover on icon below</h3><br>
     <a href="/portfolio/assets/pdf/Nsiempba_Portfolio.pdf" target="_blank" >
     <i class="fa fa-building-o big" style="font-size:120px"></i>
     </a>
     </div>
-</div>
+
 
 <p class = "justify">
 Disclaimer:
