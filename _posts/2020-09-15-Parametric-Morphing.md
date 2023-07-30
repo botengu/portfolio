@@ -3,7 +3,7 @@ layout: post
 title:  Morphing Parametrized Surfaces  
 date:   2020-09-15 23:32:57 -0400
 categories: jekyll update
-permalink: "/dac/MorphingSurfaces/"
+permalink: "/d$a$c/MorphingSurfaces/"
 ---
 
 <div class="w3-row ">
