@@ -3,7 +3,7 @@
 layout: post
 title:  Obtaining Meshes from Parametric Surfaces    
 categories: jekyll update
-permalink: "/music-/Shapeanlysis/"
+permalink: "/$m$u$sic-/Shapeanlysis/"
 ---
 
 <div class="w3-row ">
