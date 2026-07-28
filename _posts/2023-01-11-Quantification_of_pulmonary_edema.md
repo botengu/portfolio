@@ -1,7 +1,7 @@
 ---
-layout:
+layout:post
 title:  Quantifying Pulmonary Edema
-permalink: "###/cad/QuantPulmEde/"
+permalink: "/c#ad/QuantPulmEde/"
 ---
 
   <div class="w3-row">
