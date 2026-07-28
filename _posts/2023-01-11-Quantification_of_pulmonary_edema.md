@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title:  Quantifying Pulmonary Edema
 permalink: "###/cad/QuantPulmEde/"
 ---
